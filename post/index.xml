@@ -6,8 +6,29 @@
     <description>Recent content in Articles on Ananke</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:01:23 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Mon, 03 Jun 2024 00:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>测试-123&#xA;2&#xA;4</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/post/my-second-post/</link>
+      <pubDate>Sun, 02 Jun 2024 23:56:32 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-second-post/</guid>
+      <description>测试-123&#xA;2&#xA;4</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Sun, 02 Jun 2024 23:16:44 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>测试-123&#xA;2&#xA;4&#xA;This was a mistake. Guillaume Rym alone might have conjured away the difficulty, but Coppenole had heard the cardinal.&#xA;“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross of God! hosier; that’s fine enough. Monsieur the Archduke has more than once sought his gant* in my hose.”&#xA;* Got the first idea of a timing.</description>
+    </item>
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>http://localhost:1313/post/chapter-6/</link>
